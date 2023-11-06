@@ -4,8 +4,16 @@ Fairly straight forward, I upscaled all the textures using ESRGAN (defaulted to 
 
 # How to install
 
-Simply click code in the upper right, download zip, and load it into OpenGOAL's launcher, and enable it. Couldn't be simpler, and changes should only occur if A. I find something better B. I can add the animated textures down the line or C. the texture layout changes entirely. Other than that, enjoy!
+Just download it from the link below, or clone the repo and pack it yourself, then load it into OpenGOAL's launcher, and enable it. Couldn't be simpler, and changes should only occur if A. I find something better B. I can add the animated textures down the line or C. the texture layout changes entirely. Other than that, enjoy!
+
+# Package it yourself
+
+After cloning it yourself, simply zip up the cover, metadata, and testure_replacements folder, then load it into OpenGOAL's launcher like stated in the install step.
 
 # Warnings
 
 This will likely be heavy on your computer during initial install, my system hangs when initially compiling it, but runs smooth as butter once it's done. Expect your computer to choke a little when adding in all the textures.
+
+# Pack link
+
+[Pack Get](https://drive.google.com/file/d/1wMXCVzS6JnU-whSPoQlp1Pr8qaasANNg/view?usp=sharing)
