@@ -14,6 +14,4 @@ After cloning it yourself, simply zip up the cover, metadata, and testure_replac
 
 This will likely be heavy on your computer during initial install, my system hangs when initially compiling it, but runs smooth as butter once it's done. Expect your computer to choke a little when adding in all the textures.
 
-# Pack link
-
-[Pack Get](https://drive.google.com/file/d/1EG0ttB2FKF08TDe8ZTPvd6wdUX1PyrZe/view?usp=sharing)
+**[Pack link](https://drive.google.com/file/d/1EG0ttB2FKF08TDe8ZTPvd6wdUX1PyrZe/view?usp=sharing)**
