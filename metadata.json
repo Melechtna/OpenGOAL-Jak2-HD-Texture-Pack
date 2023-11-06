@@ -4,6 +4,6 @@
   "author": "Melechtna",
   "releaseDate": "05-11-2023",
   "supportedGames": ["jak2"],
-  "description": "Every texture given the ESRGAN treatment.Except what we can't touch, Sky, Cloud, eye, and animated textures.",
+  "description": "Every texture given the ESRGAN treatment.Except what we can't touch, some minimap and all animated textures.",
   "tags": ["overhaul"]
 }
